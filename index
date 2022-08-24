@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Technigo Coding Challenge</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+
+  <body>
+
+      <h1>-https-</h1>
+      <div>
+        <script src="js/js_fade.js">
+        </script>    
+      <div class="container ex">
+          <span>Hy</span><span>per</span> <span>Te</span><span>xt</span> <span>Tr</span><span>ans</span><span>fer</span> <span>Proto</span><span>col</span> <span>Se</span><span>cure</span>             </span>
+      </div>
+      <h3>Htpps är ett säkrare sätt att lämna och hämta information via en länk. Anslutningen kopplas ihop med ett säkerhetscertifikat.</h3>
+      <footer>Mer info</footer>
+      <li><a href="https://sv.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure"> Wikipedia in english</a></li>
+      <li><a href="https://redcapes.se/https-vad-ar-det-och-vad-innebar-det-din-verksamhet/"> Redscapes på svenska</a></li> 
+      <li><a href="https://www.tutorialsteacher.com/https/what-is-https"> Tutorials teacher in english</a></li>    
+    </div>
+   </body>
+
+</html>      
